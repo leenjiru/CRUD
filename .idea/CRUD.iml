@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/user_guide" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ext" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/classic/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/locale/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-base/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-classic-sandbox/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-classic/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-crisp/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-gray/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-neptune-touch/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-neptune/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/classic/theme-neutral/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/modern/modern/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/packages/amf/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/packages/core/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/packages/font-ios/.sencha" />
+      <excludeFolder url="file://$MODULE_DIR$/ext/packages/soap/.sencha" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
