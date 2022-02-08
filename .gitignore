@@ -24,5 +24,8 @@ backend/application/cache
 backend/application/logs/*
 backend/application/logs/index.html
 backend/system/logs/*
+sencha-error-20220120.log
+sencha-error-20220119.log
+sencha-error-20220207.log
 
 
