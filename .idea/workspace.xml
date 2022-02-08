@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e877122-89d3-43bc-9e23-aca104db6522" name="Default Changelist" comment="rm user_guide">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4e877122-89d3-43bc-9e23-aca104db6522" name="Default Changelist" comment="rm sencha error logs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <workItem from="1643953391505" duration="12451000" />
       <workItem from="1643968338150" duration="123000" />
       <workItem from="1643969568878" duration="3779000" />
-      <workItem from="1644212371588" duration="21465000" />
+      <workItem from="1644212371588" duration="22729000" />
     </task>
     <task id="LOCAL-00001" summary="rm user_guide">
       <created>1644302219760</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644302219760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rm sencha error logs">
+      <created>1644302719088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644302719088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +106,8 @@
     <MESSAGE value="changed ignore file" />
     <MESSAGE value=".ignore" />
     <MESSAGE value="rm user_guide" />
-    <option name="LAST_COMMIT_MESSAGE" value="rm user_guide" />
+    <MESSAGE value="rm sencha error logs" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm sencha error logs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="459" y="296" width="447" height="386" key="ComposerInitDialogKey" timestamp="1643797218221">
@@ -126,10 +134,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738/-1440.0.1440.870@0.0.1366.738" timestamp="1644247849861" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1644302335408">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1644302731432">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1440.0.1440.870@0.0.1366.738" timestamp="1644302335408" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1440.0.1440.870@0.0.1366.738" timestamp="1644302731432" />
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644302784920">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1440.0.1440.870@0.0.1366.738" timestamp="1644302784920" />
     <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1643892373949">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
